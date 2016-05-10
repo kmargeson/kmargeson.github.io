@@ -1,3 +1,9 @@
+#image {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 title {
     text-align: center;
     background: "images/laptop.jpg";
@@ -7,11 +13,6 @@ title {
     font-weight: regular;
     text-transform: uppercase;
     font-size: 60px
-}
-#image {
-  position: absolute;
-  left: 0;
-  top: 0;
 }
 
 #slogan { 
