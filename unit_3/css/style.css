@@ -2,6 +2,7 @@ title {
     text-align: center;
     background: "images/laptop.jpg";
     background-size: cover;
+    position:absolute
     color: #fff;
     font-family: Quicksand; 
     font-weight: regular;
