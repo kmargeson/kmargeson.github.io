@@ -7,11 +7,12 @@ h2 {
    position: absolute; 
    top: 200px; 
    left: 0; 
-   width: 100%; 
+   width: 50%; 
    color: #fff;
    font-family: Quicksand; 
    font-weight: regular;
    text-transform: uppercase;
+   font-size: xx-large;
 }
 
 #slogan { 
