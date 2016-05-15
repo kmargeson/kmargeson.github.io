@@ -15,7 +15,6 @@ h2 {
    top: 200px; 
    left: 0; 
    width: 90%; 
-   margin: 0;
    color: #fff;
    font-family: Quicksand; 
    font-weight: light;
@@ -23,12 +22,11 @@ h2 {
    font-size: 90px;
 }
 
-#slogan { 
+p { 
 	position: absolute; 
    	top: 200px; 
     left: 0; 
     width: 90%; 
-    margin: 0;
     color:#fff;
     font-family: Quicksand;
     font-weight: light 
