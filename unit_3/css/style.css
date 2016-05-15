@@ -3,11 +3,19 @@
    width: 100%; 
 }
 
+head {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: white;
+	text-align: left;
+}
 h2 { 
    position: absolute; 
    top: 200px; 
    left: 0; 
    width: 90%; 
+   margin: 0;
    color: #fff;
    font-family: Quicksand; 
    font-weight: light;
@@ -20,6 +28,7 @@ h2 {
    	top: 200px; 
     left: 0; 
     width: 90%; 
+    margin: 0;
     color:#fff;
     font-family: Quicksand;
     font-weight: light 
