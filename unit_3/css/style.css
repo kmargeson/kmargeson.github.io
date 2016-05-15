@@ -22,18 +22,6 @@ h2 {
    font-size: 90px;
 }
 
-p { 
-	position: absolute; 
-   	top: 200px; 
-    left: 0; 
-    width: 90%; 
-    color:#fff;
-    font-family: Quicksand;
-    font-weight: light 
-    text-transform: capitalize;
-    font-size: 40px
-}
-
 body {
   text-align: left;
   background-color: #CDCDCD;
