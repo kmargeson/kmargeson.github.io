@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 .image { 
    position: relative; 
    width: 100%; 
@@ -17,7 +20,7 @@ h2 {
    left: 0; 
    width: 90%; 
    color: #fff;
-   font-family: Quicksand; 
+   font-family: 'Quicksand', sans-serif;
    font-weight: light;
    text-transform: uppercase;
    font-size: 90px;
@@ -27,8 +30,7 @@ body {
   text-align: left;
   background-color: #CDCDCD;
   color: #000;
-  font-family: GeosansLight;
-  font-weight: regular;
+  font-family: 'Raleway', sans-serif;
   font-size: 24px
 }
 
@@ -36,7 +38,7 @@ h3 {
   text-align: center;
   background-color: #CDCDCD;
   color: #88BBD6;
-  font-family: GeosansLight;
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
   font-size: 32px
 }
@@ -45,7 +47,7 @@ h4 {
   text-align: center;
   background-color: #CDCDCD;
   color: #88BBD6;
-  font-family: GeosansLight;
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
   font-size: 32px
 }
@@ -54,7 +56,7 @@ h5 {
   text-align: center;
   background-color: #CDCDCD;
   color: #88BBD6;
-  font-family: GeosansLight;
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
   font-size: 32px
 }
