@@ -3,7 +3,7 @@
 
 .image { 
    position: relative; 
-   width: 100%; 
+   width: 99%; 
 }
 
 head {
@@ -43,7 +43,7 @@ body {
   background-color: #3e4951;
   color: white;
   font-family: 'Raleway', sans-serif;
-  font-size: 24px
+  font-size: 24px;
 }
 
 h3 {
@@ -52,7 +52,7 @@ h3 {
   color: #68ccc9;
   font-family: 'Quicksand', sans-serif;
   font-weight: bold;
-  font-size: 32px
+  font-size: 32px;
 }
 
 h4 {
@@ -61,7 +61,7 @@ h4 {
   color: #68ccc9;
   font-family: 'Quicksand', sans-serif;
   font-weight: bold;
-  font-size: 32px
+  font-size: 32px;
 }
 
 h5 {
@@ -70,5 +70,5 @@ h5 {
   color: #68ccc9;
   font-family: 'Quicksand', sans-serif;
   font-weight: bold;
-  font-size: 32px
+  font-size: 32px;
 }
