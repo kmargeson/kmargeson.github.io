@@ -19,11 +19,8 @@ head {
 h1{
 	position: absolute; 
 	text-transform: uppercase;
-	top: 50%;
-	left: 50%;
 	color: white;
 	text-align: left;
-	margin: 0;
 	font-size: 8rem;
 
 }
