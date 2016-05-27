@@ -9,19 +9,10 @@
 
 head {
 	position: absolute;
-	top: 50%;
-	left: 50%;
 	color: white;
 	margin: 50px;
 	text-align: left;
 }
-
-h1{
-	position: absolute; 
-	text-transform: uppercase;
-	color: white;
-	text-align: left;
-	font-size: 8rem;
 
 }
 h2 { 
