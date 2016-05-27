@@ -28,10 +28,8 @@ h1{
 
 }
 h2 { 
-   position: absolute; 
-   top: 60%;
-   left: 50%;
    text-align: left;
+   background-color: #3e4951;
    color: white;
    font-family: 'Quicksand', sans-serif;
    font-weight: light;
