@@ -14,7 +14,14 @@ head {
 	text-align: left;
 }
 
+h1{
+	position: absolute; 
+	text-transform: uppercase;
+	color: white;
+	text-align: left;
+	font-size: 8rem;
 }
+
 h2 { 
    text-align: left;
    background-color: #3e4951;
